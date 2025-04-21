@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-image:url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?t=st=1744950165~exp=1744953765~hmac=364f814f301c98a92aeae6ed950601ec15f6c79736481744b15024e8cfe8bd3f&w=1380) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#login{
+    height: 500px;
+    width: 350px;
+   background: url(https://media.istockphoto.com/id/821760914/vector/pastel-multi-color-gradient-vector-background-simple-form-and-blend-with-copy-space.jpg?s=612x612&w=0&k=20&c=adwrMs3MkPLXMb69AYSoMpnCfLSAb_D3PCQRGGXiM5g=);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   border-radius: 15px;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    margin: 28px;
+}
+p{
+    text-size-adjust: xx-large;
+    margin: 20px;
+}
+#submit{
+      height: 6px;
+    color: rgb(65, 65, 133);
+    text-align: center;
+    margin: 30px;
+}
